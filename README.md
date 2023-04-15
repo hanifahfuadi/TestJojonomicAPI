@@ -1,6 +1,6 @@
 <h1 align="center">API Automation Testing on www.weatherbit.io</h1>
 <h2>About The Project</h2>
-Gorest is open API provides current weather for any point on the globe derived from +47,000 live weather stations as well as doppler radar, and meso-reanalyses. It also provides weather alerts for over 30 countries including the US, Canada, EU member nations, and Israel. I have tested GET current and forecast API with HTTP method
+Weatherbit is open API provides current weather for any point on the globe derived from +47,000 live weather stations as well as doppler radar, and meso-reanalyses. It also provides weather alerts for over 30 countries including the US, Canada, EU member nations, and Israel. I have tested GET current and forecast API with HTTP method
 
 <h2>URL</h2>
 <p><a href="https://api.weatherbit.io/v2.0/" rel="nofollow">Gorest.co.in</a></p>
