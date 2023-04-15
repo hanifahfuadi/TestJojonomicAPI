@@ -6,7 +6,7 @@ Weatherbit is open API provides current weather for any point on the globe deriv
 <p><a href="https://api.weatherbit.io/v2.0/" rel="nofollow">https://api.weatherbit.io/v2.0/</a></p>
 
 <h2>How to Run This Automation Testing</h2>
-<ol dir="https://github.com/hanifahfuadi/TestJojonomicAPI/">
+<ol "https://github.com/hanifahfuadi/TestJojonomicAPI/">
 <li>Clone the repository</li>
 </ol>
 
