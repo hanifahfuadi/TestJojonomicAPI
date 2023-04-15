@@ -1,10 +1,9 @@
-<h1 align="center">API Automation Testing on Gorest.co.in</h1>
+<h1 align="center">API Automation Testing on www.weatherbit.io</h1>
 <h2>About The Project</h2>
-Gorest is open API for anyone want to learn about API testing, in this project already tested
-all resources on gorest with all HTTP method
+Gorest is open API provides current weather for any point on the globe derived from +47,000 live weather stations as well as doppler radar, and meso-reanalyses. It also provides weather alerts for over 30 countries including the US, Canada, EU member nations, and Israel. I have tested GET current and forecast API with HTTP method
 
 <h2>URL</h2>
-<p><a href="https://gorest.co.in/" rel="nofollow">Gorest.co.in</a></p>
+<p><a href="https://api.weatherbit.io/v2.0/" rel="nofollow">Gorest.co.in</a></p>
 
 <h2>How to Run This Automation Testing</h2>
 <ol dir="auto">
