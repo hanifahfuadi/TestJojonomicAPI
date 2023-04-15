@@ -3,10 +3,10 @@
 Weatherbit is open API provides current weather for any point on the globe derived from +47,000 live weather stations as well as doppler radar, and meso-reanalyses. It also provides weather alerts for over 30 countries including the US, Canada, EU member nations, and Israel. I have tested GET current and forecast API with HTTP method
 
 <h2>URL</h2>
-<p><a href="https://api.weatherbit.io/v2.0/" rel="nofollow">Gorest.co.in</a></p>
+<p><a href="https://api.weatherbit.io/v2.0/" rel="nofollow">https://api.weatherbit.io/v2.0/</a></p>
 
 <h2>How to Run This Automation Testing</h2>
-<ol dir="auto">
+<ol dir="https://github.com/hanifahfuadi/TestJojonomicAPI/">
 <li>Clone the repository</li>
 </ol>
 
